@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there, I'm Badr Eddine Zaim<br>☕Turning caffeine into code and dreams into memories<br>💡 Aspiring to: Build software that makes a difference<br>🎯 2024 Goal: Contribute to open source projects<br>📫 Let's Connect: badreddinezaim1@gmail.com👋 Hi there, I'm Badr Eddine Zaim<br>
+👋 Hi there, I'm Badr Eddine Zaim<br>☕Turning caffeine into code and dreams into memories<br>💡 Aspiring to: Build software that makes a difference<br>🎯 2024 Goal: Contribute to open source projects<br>📫 Let's Connect: badreddinezaim1@gmail.com
 
 
 ## 🌐 Socials:
